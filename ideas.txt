@@ -1,0 +1,13 @@
+Hoge uitstroom voorkomen:
+- proactief benaderen van professionals
+- promotie aanbieden?
+
+Extra data:
+- promotie ja/nee
+- gewerkte uren per week
+- salaris
+- soort bedrijf
+
+Extra:
+- Nan waardes interpoleren
+- voor elk jaar het volgende jaar voorspellen ipv alleen het laatste jaar -> RNN/LSTM
